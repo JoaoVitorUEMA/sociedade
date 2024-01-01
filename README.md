@@ -1,3 +1,16 @@
 # Sociedade
  atualização
-<p>a sociedade patriarcal brasileira </p>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exemplo teste</title>
+</head>
+<body>
+    <h1>exemplo</h1>
+    <hr>
+    <p> no maranhão</p>
+    <p>Nós amigos de paulo freire</p>
+</body>
+</html>
