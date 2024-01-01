@@ -1,3 +1,3 @@
 # Sociedade
  atualização
-<p>a sociedade patriarcal brasileira /<p>
+<p>a sociedade patriarcal brasileira </p>
